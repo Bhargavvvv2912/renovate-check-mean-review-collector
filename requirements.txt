@@ -1,5 +1,5 @@
 attrs==26.1.0
-Click==7.1.2
+Click==8.5.0
 coverage==4.5.4
 Flask==1.1.4
 gunicorn==19.10.0
